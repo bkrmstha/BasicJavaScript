@@ -17,7 +17,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background-image: url(./background.png);
+    background-image: url(./photos/dark_Moon_clouds_night_monochrome-258772.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -75,7 +75,7 @@ nav form{
     display: grid;
 }
 
-.searchfield{
+.searchField{
     font-size: 1.1rem;
     outline: none;
     color: white;
@@ -89,7 +89,7 @@ nav form button {
  background-color: rgb(255, 195, 100,);
  border-radius: 0 25px 25px 0;
  font-size: 1.1rem;
- color: white;
+ color: rgb(75, 159, 204);
  outline: none;
  border: none;
  cursor: pointer;
