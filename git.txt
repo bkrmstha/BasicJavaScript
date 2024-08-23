@@ -1,0 +1,6 @@
+//Push
+git init
+git remote origin......
+git add .
+git commit -m "added you changes"
+git push -u origin master
